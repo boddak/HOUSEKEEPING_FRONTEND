@@ -31,9 +31,9 @@
 <br />
 
 ## 💁‍♂️ 팀원
-|Backend|Frontend|
-|:---:|:---:|
-| ![](https://github.com/yewon-Noh.png?size=120) | ![](https://github.com/SeongHo-C.png?size=120) |
+|Backend|Frontend|Backend|Frontend|Backend|Frontend|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="readme skill icons/1.png?raw=true" width="100"> | <img src="readme skill icons/2.png?raw=true" width="100"> | <img src="readme skill icons/1.png?raw=true" width="100"> | <img src="readme skill icons/2.png?raw=true" width="100"> |
 |[노예원](https://github.com/yewon-Noh)|[이성호](https://github.com/SeongHo-C)|
 
 <br />
