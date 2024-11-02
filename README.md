@@ -125,16 +125,11 @@
 
 ### :desktop_computer: 화면 구성
 
-|화면 명|
-|:---:|
-|<img src="https://user-images.githubusercontent.com/80824750/208456048-acbf44a8-cd71-4132-b35a-500047adbe1c.gif" width="450"/>|
-|화면에 대한 설명을 입력합니다.|
+|로그인|마이페이지|
+|:---:|:---:|
+|<img src="readme skill icons/로그인.png?raw=true" width="350">|<img src="readme skill icons/로그인.png?raw=true" width="350">|
+|화면에 대한 설명을 입력합니다.|화면에 대한 설명을 입력합니다.|
 
-
-|화면 명|
-|:---:|
-|<img src="https://user-images.githubusercontent.com/80824750/208456234-fb5fe434-aa65-4d7a-b955-89098d5bbe0b.gif" width="450"/>|
-|화면에 대한 설명을 입력합니다.|
 
 
 
