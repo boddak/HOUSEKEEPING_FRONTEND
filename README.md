@@ -1,13 +1,9 @@
 <div align="center">
+    
+## HOUSE KEEPING - 우리들의 든든한 자취 메이트
 
 <!-- logo -->
 <img src="https://user-images.githubusercontent.com/80824750/208554558-490845c9-959a-4823-9003-350ec4d221bf.png" width="400"/>
-
-### 깃 리드미 템플릿 🖍️
-
-[<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/release-v0.0.0-ㅎㄱㄷ두?style=flat&logo=google-chrome&logoColor=white" />]() 
-<br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2022.12.10~2022.12.19-fab2ac?style=flat&logo=&logoColor=white" />]()
-
 </div> 
 
 ## 📝 프로젝트 소개
@@ -44,25 +40,81 @@
 
 ## ⚙ 기술 스택
 ### Dev Tool
-<div>
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/JavaScript.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/React.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/JWT.png?raw=true" width="80">
-</div>
 
-### Infra
-<div>
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/AWSEC2.png?raw=true" width="80">
-</div>
+| IntelliJ | VsCode | POSTMAN | Gradle | Vim |  
+| :--------: |:--------:| :--------: | :--------: | :--------: |
+| <img src="readme skill icons/Idea-Dark.svg?raw=true" width="60"> | <img src="readme skill icons/VSCode-Dark.svg?raw=true" width="60"> | <img src="readme skill icons/Postman.svg?raw=true" width="60"> | <img src="readme skill icons/Gradle-Dark.svg?raw=true" width="60"> | <img src="readme skill icons/VIM-Light.svg?raw=true" width="60"> |
 
-### Tools
-<div>
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Github.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Notion.png?raw=true" width="80">
-</div>
+### FrameWork
+
+| Spring Boot |  
+| :--------: |
+| <img src="readme skill icons/Spring-Light.svg?raw=true" width="60"> |
+
+### Front-End
+
+| Html | CSS | JavaScript | React | Vite | Three.js | 
+| :--------: |:--------:| :--------: | :--------: | :--------: | :--------: |
+| <img src="readme skill icons/HTML.svg?raw=true" width="60"> | <img src="readme skill icons/CSS.svg?raw=true" width="60"> | <img src="readme skill icons/JavaScript.svg?raw=true" width="60"> | <img src="readme skill icons/React.svg?raw=true" width="60"> | <img src="readme skill icons/Vite-Dark.svg?raw=true" width="60"> | <img src="readme skill icons/ThreeJS-Light.svg?raw=true" width="60"> |
+
+### Back-End
+
+| Java | Python | Node.js | Json | JQuery | TensorFlow | 
+| :--------: |:--------:| :--------: | :--------: | :--------: | :--------: |
+| <img src="readme skill icons/Java-Light.svg?raw=true" width="60"> | <img src="readme skill icons/Python-Dark.svg?raw=true" width="60"> | <img src="readme skill icons/NodeJS-Light.svg?raw=true" width="60"> | <img src="readme skill icons/JSON_vector_logo.svg?raw=true" width="60"> | <img src="readme skill icons/JQuery.svg?raw=true" width="60"> | <img src="readme skill icons/TensorFlow-Light.svg?raw=true" width="60"> |
+
+### DB
+
+| MySQL |
+| :--------: |
+| <img src="readme skill icons/MySQL-Dark.svg?raw=true" width="60"> | 
+
+### Server
+
+| Jenkins | Docker |
+| :--------: | :--------: |
+| <img src="readme skill icons/Jenkins-Dark.svg?raw=true" width="60"> | <img src="readme skill icons/Docker.svg?raw=true" width="60"> | 
+
+### Collaboration Tool
+
+| Git | Github | Slack | Notion | Figma |
+| :--------: | :--------: | :--------: | :--------: | :--------: |
+| <img src="readme skill icons/Git.svg?raw=true" width="60"> | <img src="readme skill icons/Github-Dark.svg?raw=true" width="60"> | <img src="readme skill icons/slack-new-logo.svg?raw=true" width="60"> | <img src="readme skill icons/Notion-logo.svg?raw=true" width="60"> | <img src="readme skill icons/Figma-Dark.svg?raw=true" width="60"> | 
 
 <br />
-### 화면 구성
+
+## :zap: 구현 기능
+
+#### - 회원가입/로그인시 세션하이재킹등 해킹을 방지하기 위한 보안 요구사항을 만족시킨다.
+
+#### - 회원은 3D로 구현된 방을 커스터마이징 할 수 있다.
+
+#### - 회원은 방명록을 작성하고 친구기능을 사용할 수 있다.
+
+#### - 회원과 회원간 채팅기능과 그룹 채팅 기능을 지원한다.
+
+#### - 회원간 온라인 상태여부 확인, 경험치와 레벨 기능을 지원한다.
+
+#### - 캘린더기능을 제공하며 루틴 형태로 TO DO LIST 를 생성할 수 있다.
+
+#### - CRUD 게시판 기능을 제공한다.
+
+#### - 머신러닝을 통한 의류 카테고리 분류와 배경제거 처리된 의류 이미지를 저장 할 수 있다.
+
+#### - 날씨에 따른 의류 추천 기능을 제공한다.
+
+#### - OCR 인식 기능을 통한 식재료 품목 추출이 가능하다.
+
+#### - 식재료를 등록, 검색, 유통기한 등록을 할 수 있다.
+
+#### - 등록된 식재료를 바탕으로 AI 레시피 추천기능을 제공한다.
+
+#### - 유통기한 임박 및 TO DO 미완료시 SMS 알림 기능을 제공한다.
+
+<br />
+
+### :desktop_computer: 화면 구성
+
 |화면 명|
 |:---:|
 |<img src="https://user-images.githubusercontent.com/80824750/208456048-acbf44a8-cd71-4132-b35a-500047adbe1c.gif" width="450"/>|
@@ -75,14 +127,5 @@
 |화면에 대한 설명을 입력합니다.|
 
 
-<br />
-
-## 🤔 기술적 이슈와 해결 과정
-- CORS 이슈
-    - [Axios message: 'Network Error'(CORS 오류)](https://leeseong010.tistory.com/117)
-- api 호출 시 중복되는 헤더 작업 간소화하기
-    - [axios interceptor 적용하기](https://leeseong010.tistory.com/133)
-- axios 요청하기
-    - [axios delete 요청 시 body에 data 넣는 방법](https://leeseong010.tistory.com/111)
 
 
