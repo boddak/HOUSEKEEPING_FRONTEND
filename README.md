@@ -1,6 +1,6 @@
 <div align="center">
     
-## HOUSE KEEPING - 우리들의 든든한 자취 메이트
+## 🏠 HOUSE KEEPING - 우리들의 든든한 자취 메이트
 
 <!-- logo -->
 <img src="readme skill icons/house.png?raw=true" width="400"/>
