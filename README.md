@@ -121,7 +121,7 @@
 
 |로그인, 회원가입|
 |:---:|
-|<img src="readme skill icons/로그인.png?raw=true" width="250"><img src="readme skill icons/최초가입 추가정보 입력.png?raw=true" width="250"><img src="readme skill icons/최초가입 방 설.png?raw=true" width="250">|
+|<img src="readme skill icons/로그인.png?raw=true" width="250"><img src="readme skill icons/최초가입 추가정보 입력.png?raw=true" width="250"><img src="readme skill icons/최초가입 방 설정.png?raw=true" width="250">|
 |화면에 대한 설명을 입력합니다.|
 
 |마이페이지|
