@@ -3,7 +3,7 @@
 ## HOUSE KEEPING - 우리들의 든든한 자취 메이트
 
 <!-- logo -->
-<img src="https://user-images.githubusercontent.com/80824750/208554558-490845c9-959a-4823-9003-350ec4d221bf.png" width="400"/>
+<img src="readme skill icons/house.png?raw=true" width="400"/>
 </div> 
 
 ## 📝 프로젝트 소개
@@ -31,10 +31,20 @@
 <br />
 
 ## 💁‍♂️ 팀원
-|Backend|Frontend|Backend|Frontend|Backend|Frontend|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="readme skill icons/1.png?raw=true" width="100"> | <img src="readme skill icons/2.png?raw=true" width="100"> | <img src="readme skill icons/1.png?raw=true" width="100"> | <img src="readme skill icons/2.png?raw=true" width="100"> |
-|[노예원](https://github.com/yewon-Noh)|[이성호](https://github.com/SeongHo-C)|
+|최시호|강현욱|엄지훈|
+|:---:|:---:|:---:|
+| <img src="readme skill icons/1.png?raw=true" width="100"> | <img src="readme skill icons/2.png?raw=true" width="100"> | <img src="readme skill icons/3.png?raw=true" width="100"> |
+|<ul><li>머신러닝을 활용한 의로 분류 모델 개발 및 기능 구현</li><li>OCR 활용한 영수증 인식 기능 구현</li><li>프로젝트 레포지토리 구축</li></ul>|<ul><li>프로젝트 Security 담당</li><li>SNS 로그인 서비스</li><li>ADMIN TIP 게시판 구현</li><li>SNS 로그인 서비스</li><li>계정 레벨 및 경험치 구현</li><li>프로젝트 빌드 컨트롤</li></ul>|<ul><li>네이버 클라우드를 활용한 프로젝트 배포</li><li>친구 채팅 기능 구현</li><li>Entity 설계</li><li>실시간 온라인 친구 표시</li></ul>|
+
+|이호준|김상우|문재영|
+|:---:|:---:|:---:|
+| <img src="readme skill icons/4.png?raw=true" width="100"> | <img src="readme skill icons/5.png?raw=true" width="100"> | <img src="readme skill icons/7.png?raw=true" width="100"> |
+|<ul><li>옷장 기능 구현</li><li>날씨 API 활용 옷 추천 기능 구현</li><li>방 오염도 기능 구현</li><li>Object Storage 활용</li><li>Flask 서버 구축</li><li>프로젝트 회의 및 진행사항 관리</li></ul>|<ul><li>게시판 CRUD 구현</li><li>조회수 및 댓글 기능 구현</li><li>API를 활용한 SMS알림 구현</li><li>Clova를 활용한 AI레시피 제작 구현</li></ul>|<ul><li>친구 추가, 삭제, 관리 기능 구현</li><li>캘린더 기능 구현</li><li>루틴 기능 구현</li></ul>|
+
+|강보현|
+|:---:|
+| <img src="readme skill icons/6.png?raw=true" width="100"> |
+|<ul><li>전체 프론트엔드 아키텍처 설계 및 구현</li><li>UI/UX 설계</li><li>React, Vite, CSS, JavaScript 등을 사용한 웹 애플리케이션 제작</li></ul>|
 
 <br />
 
