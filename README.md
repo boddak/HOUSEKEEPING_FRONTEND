@@ -1,119 +1,77 @@
-# 🏠HouseKeeping - 우리들의 든든한 자취 메이트
-### NaverCloud Devops 10th : 3 TEAM ROOM-E
+<div align="center">
 
-<p align="center">
-  <br>
-  <img src="./readme_asset/common/housekeeping_logo.png">
-  <br>
-</p>
+<!-- logo -->
+<img src="https://user-images.githubusercontent.com/80824750/208554558-490845c9-959a-4823-9003-350ec4d221bf.png" width="400"/>
 
-## ✏️ 프로젝트 소개
+### 깃 리드미 템플릿 🖍️
 
-### 프로젝트 개요/동기
-</p>
-1인가구수가 급격히 증가함에 따라 자취 생활이 미숙하여 어려움을 겪는 가구또한 증가하고 있다.<br>
-이에 바탕하여 의식주를 통합관리하는 웹 애플리케이션 개발을 고안하였다.
+[<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/release-v0.0.0-ㅎㄱㄷ두?style=flat&logo=google-chrome&logoColor=white" />]() 
+<br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2022.12.10~2022.12.19-fab2ac?style=flat&logo=&logoColor=white" />]()
 
-<p align="center">
+</div> 
 
-</p>
+## 📝 소개
+프론트엔드 깃 레파지토리의 README.md를 빠르게 작성하기 위해 만든 템플릿입니다.
 
-<br>
+다음과 같은 내용을 작성할 수 있습니다.
+- 프로젝트 소개
+- 프로젝트 화면 구성
+- 사용한 기술 스택
+- 기술적 이슈와 해결 과정
+- 프로젝트 팀원
 
-## 🔧 기술 스택
+필요한 기술 스택에 대한 logo는 [skills 폴더](/skills/)에서 다운로드 받을 수 있습니다.
 
-| JavaScript |   Python  |   Spring   |     Java     |   Html   |  Node   |  Json   |   JQuery  |  MySQL  |   MongoDB  |
-| :--------: |:---------:| :--------: | :----------: | :------: | :-----: | :-----: | :-------: | :-----: | :--------: |
-|   ![js]    | ![python] |  ![spring] |   ![java]    | ![html]  | ![node] | ![json] | ![jquery] | ![mysql]| ![mongodb] |
+<br />
 
-<br><br>
-## 💻 IDE
+### 화면 구성
+|화면 명|
+|:---:|
+|<img src="https://user-images.githubusercontent.com/80824750/208456048-acbf44a8-cd71-4132-b35a-500047adbe1c.gif" width="450"/>|
+|화면에 대한 설명을 입력합니다.|
 
-|   IntelliJ  |   Eclipse   |  VScode   |
-| :---------: | :---------: | :-------: |
-| ![intellij] |  ![eclipse] | ![vscode] |
 
-<br><br>
+|화면 명|
+|:---:|
+|<img src="https://user-images.githubusercontent.com/80824750/208456234-fb5fe434-aa65-4d7a-b955-89098d5bbe0b.gif" width="450"/>|
+|화면에 대한 설명을 입력합니다.|
 
-## 🧑‍🤝‍🧑 협업 도구
+<br />
 
-|    Git     |    Slack   |   Notion  |   Figma   |
-| :--------: | :--------: | :-------: | :-------: |
-|   ![git]   |  ![slack]  | ![notion] | ![figma]  |
+## ⚙ 기술 스택
+> skills 폴더에 있는 아이콘을 이용할 수 있습니다.
+### Front-end
+<div>
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/JavaScript.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/React.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/JWT.png?raw=true" width="80">
+</div>
 
-<br><br>
+### Infra
+<div>
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/AWSEC2.png?raw=true" width="80">
+</div>
 
-## ⚡ 구현 기능
+### Tools
+<div>
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Github.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Notion.png?raw=true" width="80">
+</div>
 
-#### - 회원가입/로그인시 세션하이재킹등 해킹을 방지하기 위한 보안 요구사항을 만족시킨다.
+<br />
 
-#### - 회원은 3D로 구현된 방을 커스터마이징 할 수 있다.
+## 🤔 기술적 이슈와 해결 과정
+- CORS 이슈
+    - [Axios message: 'Network Error'(CORS 오류)](https://leeseong010.tistory.com/117)
+- api 호출 시 중복되는 헤더 작업 간소화하기
+    - [axios interceptor 적용하기](https://leeseong010.tistory.com/133)
+- axios 요청하기
+    - [axios delete 요청 시 body에 data 넣는 방법](https://leeseong010.tistory.com/111)
 
-#### - 회원은 방명록을 작성하고 친구기능을 사용할 수 있다.
+<br />
 
-#### - 회원과 회원간 채팅기능과 그룹 채팅 기능을 지원한다.
-
-#### - 회원간 온라인 상태여부 확인, 경험치와 레벨 기능을 지원한다.
-
-#### - 캘린더기능을 제공하며 루틴 형태로 TO DO LIST 를 생성할 수 있다.
-
-#### - CRUD 게시판 기능을 제공한다.
-
-#### - 머신러닝을 통한 의류 카테고리 분류와 배경제거 처리된 의류 이미지를 저장 할 수 있다.
-
-#### - 날씨에 따른 의류 추천 기능을 제공한다.
-
-#### - OCR 인식 기능을 통한 식재료 품목 추출이 가능하다.
-
-#### - 식재료를 등록, 검색, 유통기한 등록을 할 수 있다.
-
-#### - 등록된 식재료를 바탕으로 AI 레시피 추천기능을 제공한다.
-
-#### - 유통기한 임박 및 TO DO 미완료시 SMS 알림 기능을 제공한다.
-
-<br>
-
-## 🐼 DEVELOPER
-
-#### KitsuneSiho (팀장) : 머신러닝 분류 모델 개발, OCR 기능 구현, Git&Repository 관리
-#### HarryKang (Back-End) : Setting up project security, SNS Login Service, 계정 레벨 및 경험치 구현, Project Build Control
-#### JIHOON (Full-Stack) : NCP 를 활용한 Project Deploy, Chat Service, Entity 설계, Real-time online status display, Intro Anim및 Load Anim 제작
-#### SangWoo (Back-End) : 게시판 CRUD 구현, 조회수 및 댓글기능, SMS Alert, CLOVA AI 레시피 추천
-#### boddak (Front-End) : UI/UX 설계, 전체 프론트엔드 아키텍처 설계 및 구현, React, Vite, CSS, JavaScript 등을 사용한 웹 페이지 제작
-#### Hojun (Back-End) : 옷장/옷추천 기능 구현, Weather API, 방 오염도 기능, ObjectStorage, FLASK SERVER, 프로젝트 회의 및 진행사항 관리, 트러블 슈팅
-#### Jaeyoung (Back-End) : TO DO 루틴 기능, Calander, 친구 요청 및 관리, 방명록 구현
-
-</p>
-
-<br>
-
-## 📅 개발 기간 
-- #### 2024.07.22(월) ~ 2024.08.23(금)
-
-- #### 1주차 : 프로젝트 계획, 상세분석
-- #### 2주차 : UI, DB 구조 설계, 백엔드 개발시작
-- #### 3주차 : DB연결 및 기능구현, 단위테스트
-- #### 4주차 : 프로젝트 기능별 병합과 정리
-- #### 5주차 : 불용코드 제거, 프로젝트 최종테스트
-
-<br>
-
-<!-- Stack Icon Refernces -->
-
-[js]: /readme_asset/stack/javascript.svg
-[spring]: /readme_asset/stack/spring.svg
-[java]: /readme_asset/stack/java.svg
-[html]: /readme_asset/stack/html.svg
-[node]: /readme_asset/stack/node.svg
-[json]: /readme_asset/stack/json.svg
-[jquery]: /readme_asset/stack/jquery.svg
-[mysql]: /readme_asset/stack/mysql.svg
-[mongodb]: /readme_asset/stack/mongodb.svg
-[intellij]: /readme_asset/stack/intellij.svg
-[eclipse]: /readme_asset/stack/eclipse.svg
-[vscode]: /readme_asset/stack/vscode.svg
-[git]: /readme_asset/stack/git.svg
-[notion]: /readme_asset/stack/notion.svg
-[figma]: /readme_asset/stack/figma.svg
-[slack]: /readme_asset/stack/slack.svg
-[python]: /readme_asset/stack/python.svg
+## 💁‍♂️ 프로젝트 팀원
+|Backend|Frontend|
+|:---:|:---:|
+| ![](https://github.com/yewon-Noh.png?size=120) | ![](https://github.com/SeongHo-C.png?size=120) |
+|[노예원](https://github.com/yewon-Noh)|[이성호](https://github.com/SeongHo-C)|
